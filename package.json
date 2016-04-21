@@ -14,8 +14,9 @@
   "author": "Toshiyuki HINA",
   "license": "MIT",
   "dependencies": {
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+    "material-ui": "^0.14.4",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
   },
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.1.2",
